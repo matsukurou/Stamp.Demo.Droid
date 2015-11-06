@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="magic_mode_type">
+        <item>매직모드X</item>
+        <item>매직핑거</item>
+        <item>매직핑거(가이드x)</item>
+        <item>매직슬라이드</item>
+    </string-array>    
+</resources>
